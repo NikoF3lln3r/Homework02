@@ -7,5 +7,5 @@ setup(
     author="Niko",
     author_email="niko.fellner@fau.de",
     packages=find_packages(),
-    install_requires=["random"],
+    install_requires=[],
 )
